@@ -100,8 +100,9 @@ footer {
   #step1{
     margin-bottom: 20px
   }
+
+  #step2{
+    margin-bottom: 20px;
+  }
 }
 
-#step3{
-  margin-top: 20px;
-}
